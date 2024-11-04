@@ -132,7 +132,7 @@ body {
     .social-networks {
         width: 100%;
         margin: 0 auto;
-        gap: 5px; 
+        gap: 16px; 
         justify-content: center;
     }
 
